@@ -1,8 +1,8 @@
-# Exploring CAPM with IBM's Beta Exposure using R
+# Exploring CAPM with SP500 stock's Beta Exposure using R
 
 ## Introduction
 
-The financial analytics project titled "Exploring CAPM with IBM's Beta Exposure using R" delves into the world of finance and data analysis. Through leveraging the capabilities of R, a versatile data analysis tool, this project investigates the Capital Asset Pricing Model (CAPM) and its practical applications. We embark on a journey that encompasses collecting historical stock price data for IBM and the market index, rigorous data cleaning, and transformation to ensure data accuracy. The ultimate goal is to utilize predictive modeling through linear regression in R to compute IBM's beta, a crucial risk assessment metric for investors.
+The financial analytics project titled "Exploring CAPM with SP500 stock's Beta Exposure using R" delves into the world of finance and data analysis. Through leveraging the capabilities of R, a versatile data analysis tool, this project investigates the Capital Asset Pricing Model (CAPM) and its practical applications. We embark on a journey that encompasses collecting historical stock price data for IBM and the market index, rigorous data cleaning, and transformation to ensure data accuracy. The ultimate goal is to utilize predictive modeling through linear regression in R to compute IBM's beta, a crucial risk assessment metric for investors.
 
 ## Project Objectives
 
